@@ -1,2 +1,2 @@
 # js-playlist
-js practice
+js practice https://lukavolchok.github.io/js-playlist/
